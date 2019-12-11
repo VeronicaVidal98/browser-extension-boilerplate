@@ -1,12 +1,62 @@
-.my-beautiful-extension {
-  transform: rotate(180deg);
-  border: 10px red solid;
+.my-beautiful-extension ._585-{
+ }
+.my-beautiful-extension ._585-:hover{
+	opacity:0;
+ }
+
+
+
+.my-beautiful-extension ._4xi1{
+	transform:scale(0.2);
+	 transform-origin: top right;
+}
+.my-beautiful-extension ._19eb{
+	position:absolute;
+	top:500px;
+}
+.my-beautiful-extension ._2md{
+	background-color:#3b5998;
+
 }
 
-.my-beautiful-extension .rep-main-logo {
-  transform: rotate(180deg) !important;
+
+.my-beautiful-extension ._3nzk .uiList.uiList.uiList.uiList > .objectListItem > .clearfix > a > img{
+	filter:blur(4px);
 }
+
+
+.my-beautiful-extension ._8o ._8s .lfloat ._ohe{
+	filter:blur(4px);
+}
+
+.my-beautiful-extension ._3nzk .title{
+	display:none;
+}
+
+.my-beautiful-extension ._6xe8{
+	font-size: large;
+}
+.my-beautiful-extension ._8t{
+	filter:blur(4px);
+}
+
+.my-beautiful-extension ._4ldz {
+	display:none;
+}
+.my-beautiful-extension ._1y2l .author, ._1y2l a.messagesContent:hover .author, ._1y2l a.messagesContent:hover .author span, ._1y2l .subject, ._1y2l a.messagesContent:hover .subject{
+	display:none;
+}
+
+.my-beautiful-extension .__tw div.jewelHeader{
+	display:none;
+
+}
+
+.my-beautiful-extension ._5rzs._5v6d, ._5r-_.homeWiderContent div#rightCol ._5v6d div.home_right_column{
+
+	display:none;}
 
 /* .my-beautiful-extension .logoRotated {
   transform: rotate(180deg) !important;
 } */
+
